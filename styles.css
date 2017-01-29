@@ -1,20 +1,33 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Object Assess</title>
-    <link rel="stylesheet" href="styles.css" media="screen" title="no title" charset="utf-8">
-    <script src="script.js" charset="utf-8"></script>
-  </head>
-  <body>
-        <p>
-    <h1>PA_PreWork_Wk-05_Github-Object Assessment</h1>
-        </p>
-    <p>
-      <h2>Phi Cohort</h2>
-    </p>
-    <p>
-      <h2>Philip Curtis</h2>
-    </p>
-  </body>
-</html>
+/*Default-Startup CSS*/
+html, body, h1, h2, h3, p, ol, ul, li, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    font: inherit;
+    font-size: 100%;
+}
+/*END Default-Startup CSS*/
+body {
+    background-color: lightgrey;
+}
+p{
+  margin-left: 5%;
+  margin-top: 1%;
+  color: black;
+  font-family: courier;
+  letter-spacing: 2px;
+}
+h1 {
+    color: #000000;
+    margin-left: 3%;
+    font-family: courier;
+    font-weight: bold;
+    font-size: 36px;
+}
+h2 {
+    color: #000000;
+    margin-left: 3%;
+    font-family: courier;
+    font-weight: bold;
+    font-size: 24px;
+}
